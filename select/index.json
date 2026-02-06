@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "빨간 맛 Red Flavor",
+  "base_artist": "Red Velvet",
+  "createdAt": "2026-02-06T14:05:50.453146Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "빨간 맛 Red Flavor",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/01_빨간_맛_Red_Flavor_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "빨간 맛 (Red Flavor)",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/02_빨간_맛_(Red_Flavor)_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "빨간 맛 (Red Flavor) (Mar Vista remix)",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/03_빨간_맛_(Red_Flavor)_(Mar_Vista_remix)_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "빨간 맛 (Red Flavor) (Mar Vista remix)",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/04_빨간_맛_(Red_Flavor)_(Mar_Vista_remix)_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "빨간 맛 Red Flavor (Mar Vista Remix)",
+      "artist": "Red Velvet & Mar-Vista",
+      "has_synced": true,
+      "path": "select/05_빨간_맛_Red_Flavor_(Mar_Vista_Remix)_Red_Velvet_&_Mar-Vista.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "빨간 맛 Red Flavor",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_빨간_맛_Red_Flavor_Red_Velvet.txt"
+    }
+  ]
+}
